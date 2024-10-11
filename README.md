@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Develop web applications using Laravel, PHP, and other modern technologies. <br>🎯  Maintain and optimize existing codebases to ensure performance and scalability.<br>💻 Collaborate with cross-functional teams to bring ideas to life.</p>
+<p align="left"> Develop web applications using Laravel, PHP, and other modern technologies. <br>
+    Maintain and optimize existing codebases to ensure performance and scalability.<br> Collaborate with cross-functional teams to bring ideas to life.</p>
 
 ###
 
@@ -20,10 +21,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="26" alt="vuejs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="26" alt="sass logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python logo"  />
   <img width="13" />
